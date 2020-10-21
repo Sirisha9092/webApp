@@ -1,0 +1,16 @@
+C:\Users\siri\source\repos\ACM\TEST\ACM.BLTEST\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\siri\source\repos\ACM\TEST\ACM.BLTEST\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\siri\source\repos\ACM\TEST\ACM.BLTEST\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\siri\source\repos\ACM\TEST\ACM.BLTEST\bin\Debug\ACM.BLTEST.dll
+C:\Users\siri\source\repos\ACM\TEST\ACM.BLTEST\bin\Debug\ACM.BLTEST.pdb
+C:\Users\siri\source\repos\ACM\TEST\ACM.BLTEST\bin\Debug\ACM.BL.dll
+C:\Users\siri\source\repos\ACM\TEST\ACM.BLTEST\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\siri\source\repos\ACM\TEST\ACM.BLTEST\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\siri\source\repos\ACM\TEST\ACM.BLTEST\bin\Debug\ACM.BL.pdb
+C:\Users\siri\source\repos\ACM\TEST\ACM.BLTEST\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\siri\source\repos\ACM\TEST\ACM.BLTEST\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\siri\source\repos\ACM\TEST\ACM.BLTEST\obj\Debug\ACM.BLTEST.csprojAssemblyReference.cache
+C:\Users\siri\source\repos\ACM\TEST\ACM.BLTEST\obj\Debug\ACM.BLTEST.csproj.CoreCompileInputs.cache
+C:\Users\siri\source\repos\ACM\TEST\ACM.BLTEST\obj\Debug\ACM.BLTEST.csproj.CopyComplete
+C:\Users\siri\source\repos\ACM\TEST\ACM.BLTEST\obj\Debug\ACM.BLTEST.dll
+C:\Users\siri\source\repos\ACM\TEST\ACM.BLTEST\obj\Debug\ACM.BLTEST.pdb
